@@ -98,7 +98,7 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Developed by the Center for AI and Biomedical Informatics of the Learning Healthcare System (CAIBILS). 
 
 ---
 
