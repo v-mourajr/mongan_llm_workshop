@@ -8,7 +8,7 @@ Welcome to the CAIBILS Mongan LLM Workshop repository. This project is part of a
 
 Before you begin, ensure you have the following installed:
 
-- **Python**: Version 3.6 or higher.
+- **Python**: Version 3.12 or higher.
 - **Azure CLI**: Required for authentication with Azure services.
 
 ## Setup Instructions
